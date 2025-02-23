@@ -3,6 +3,8 @@ ipdb
 jupyterlab
 numpy
 pandas
+plotly
 matplotlib
 seaborn
+statsmodels
 scikit-learn
