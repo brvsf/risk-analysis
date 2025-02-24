@@ -1,6 +1,7 @@
 pylint
 ipdb
 jupyterlab
+kaleido
 numpy
 pandas
 plotly
